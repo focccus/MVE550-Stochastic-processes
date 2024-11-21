@@ -25,6 +25,7 @@ $$
 
 Maybe make 3 an absorbing state as well?
 FR_1 gives the probabilities of absorbtion when starting from 0.
+This corresponds to the probability of visiting state 3 at least once.
 
 
 P(V = 1) = P(visit 3 at least once) P(visit 3 never again when starting in 3)
