@@ -1,10 +1,10 @@
 ## a) Find the posterior for $\tilde P$. Compute the expectation 
 *The transition matrix  $\tilde P$ of the embedded chain is unknown, and we will  
 use data from Figure 1 to learn about it. Let $\tilde P_{1}, \tilde P_{2}, \tilde P_{4}$, and $\tilde P_{4}$ be the  
-four rows of ̃P .
+four rows of $\tilde P$. \
 Find the posterior given the data in the figure: Express the posterior using  
 parametric distributions with explicit parameters. Compute the expected  
-value of this posterior distribution.
+value of this posterior distribution.*
 
 
 given the data in the figure and compute the expected value of this posterior distribution
